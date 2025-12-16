@@ -11,6 +11,8 @@ def home():
 @app.route('/second')
 def second():
 
+    #hi
+
     return 'Welcome to second page'
 
 if __name__ == '__main__':
